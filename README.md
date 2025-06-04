@@ -18,11 +18,10 @@ Uma CLI para a criação de uma estrutura de projeto usando Fastify para a const
 Clone o repositório e instale as dependências:
 
 ```bash
-$ npm install -g pnpm
-$ git clone https://github.com/seu-usuario/nodejs-api-template.git
+$ npm install 
 $ cd nodejs-api-template
-$ pnpm install
-$ pnpm link --global
+$ npm link 
+$ cli init
 ```
 
 ## Executando a CLI
